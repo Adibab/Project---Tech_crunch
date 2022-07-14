@@ -182,29 +182,28 @@ section ul li{
    width: 100%;
       text-align: center; 
   }
- 
-  
- .main-img, .latest-story1{
-    display: none;
+  .latest-storyh4{
+     width: 100%;
+      text-align: center;
   }
- /* .latest-story1 {
+ 
+   .latest-story1{
      width: 100%;
       text-align: center;
   }
  
   .latest-story-img1{
-    display: none;
+    float: none;
+   width: 100%;
   }
-
+ 
  .latest-story-headline1{
     float: none;
    width: 100%;
   }
-
   .latest-story-deatiled1{
-    float: right;
+    float: none;
     width: 50%;
-  } */
-    
-    
+    text-align: center;
+  }  
 }
